@@ -12,7 +12,7 @@ I’m passionate about **coding**, **problem-solving**, and **building meaningfu
 - 💼 **LinkedIn**: [Washik Wali Faieaz](https://www.linkedin.com/in/washik-wali-faieaz-169a78263)  
 - 🐦 **Twitter**: [@washik_faieaz](https://twitter.com/washik_faieaz)  
 - 📘 **Facebook**: [Washik Wali Faieaz](https://www.facebook.com/wali.faieaz.1)
-- 📸 **Instagram**: [Washik Wali Faieaz](https://instagram.com/__faieaz__)
+- 📸 **Instagram**: [_____faieaz_](https://instagram.com/__faieaz__)
 
 ---
 
