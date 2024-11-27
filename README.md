@@ -1,5 +1,5 @@
 # 🌟 Hi there! 👋  
-### I'm **Washik Wali Faieaz**  
+### I'm **Washik Wali Faieaz ✋**  
 
 🎓 **CSE Student** | 🧑‍💻 Aspiring Software Developer | 🚀 Open-Source Enthusiast  
 
