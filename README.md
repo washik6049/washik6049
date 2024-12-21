@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=washik6049&abbreviated=true)
 # 🌟 Hi there! 👋  
 ### I'm **Washik Wali Faieaz ✋**  
 
