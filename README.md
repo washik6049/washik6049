@@ -19,30 +19,7 @@
 
 <h2>🚀 Skills & Technologies</h2>
 
-### 🖥️ Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,js,php" />
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,django,flask,php" />
-</p>
-
-### 🧠 AI/ML Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,scikitlearn" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,bash,git,github" />
-</p>
+<table align="center"> <thead> <tr> <th>🖥️ Programming Languages</th> <th>📱 Mobile Development</th> <th>🌐 Web Development</th> <th>🧠 AI/ML Frameworks</th> <th>🛠️ Tools</th> </tr> </thead> <tbody align="center"> <tr> <td><img src="https://skillicons.dev/icons?i=python,cpp,java,dart,js,php" /></td> <td><img src="https://skillicons.dev/icons?i=flutter,dart" /></td> <td><img src="https://skillicons.dev/icons?i=html,css,django,flask,php" /></td> <td><img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,scikitlearn" /></td> <td><img src="https://skillicons.dev/icons?i=mysql,bash,git,github" /></td> </tr> </tbody> </table>
 
 
 <h2>📚 Publications</h2>
