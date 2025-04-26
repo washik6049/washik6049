@@ -19,7 +19,31 @@
 
 <h2>🚀 Skills & Technologies</h2>
 
-<table align="center"> <thead> <tr> <th>Programming Languages</th> <th>Mobile Development</th> <th>Web Development</th> <th>AI/ML</th> <th>Tools</th> </tr> </thead> <tbody> <tr> <td>Python, C++, Java, Dart, JavaScript, PHP</td> <td>Flutter, Dart</td> <td>HTML, CSS, JavaScript, PHP</td> <td>TensorFlow, Keras, PyTorch, scikit-learn</td> <td>Git, GitHub, MySQL, Bash Scripting</td> </tr> </tbody> </table>
+### 🖥️ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,js,php" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,django,flask,php" />
+</p>
+
+### 🧠 AI/ML Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,scikitlearn" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,bash,git,github" />
+</p>
+
 
 <h2>📚 Publications</h2>
 
