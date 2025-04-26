@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=washik6049&abbreviated=true)
-<h1 align="center">Hi 👋, I'm Washik Wali Faieaz</h1> <h3 align="center">Aspiring AI/ML Engineer | Open-Source Enthusiast | Passionate CSE Student</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Flutter+%7C+Web+Developer;Loves+Building+Projects;Open-Source+Contributor" alt="Typing SVG" /> </p>
+<h1 align="center">Hi 👋, I'm Washik Wali Faieaz</h1> <h3 align="center">Aspiring AI/ML Engineer | Open-Source Enthusiast | Passionate CSE Student</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Web+Developer+%7C+Flutter;Loves+Building+Projects;Open-Source+Contributor" alt="Typing SVG" /> </p>
 
 <h2>🧑‍💻 About Me</h2>
 
