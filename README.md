@@ -15,7 +15,7 @@
 
 📫 Email: washikfaieaz@gmail.com
 
-🌐 Portfolio: washik6049.github.io
+🌐 Portfolio: <a herf="washik6049.github.io">
 
 <h2>🚀 Skills & Technologies</h2>
 
