@@ -31,32 +31,32 @@
   <tbody align="center">
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python<br><br>
-        <img src="https://skillicons.dev/icons?i=c" width="40"/><br>C<br><br>
-        <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++<br><br>
-        <img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java<br><br>
-        <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript<br><br>
-        <img src="https://skillicons.dev/icons?i=dart" width="40"/><br>Dart<br><br>
-        <img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP
+        <img src="https://skillicons.dev/icons?i=python" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Python<br><br>
+        <img src="https://skillicons.dev/icons?i=c" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>C<br><br>
+        <img src="https://skillicons.dev/icons?i=cpp" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>C++<br><br>
+        <img src="https://skillicons.dev/icons?i=java" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Java<br><br>
+        <img src="https://skillicons.dev/icons?i=js" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>JavaScript<br><br>
+        <img src="https://skillicons.dev/icons?i=dart" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Dart<br><br>
+        <img src="https://skillicons.dev/icons?i=php" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>PHP
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=flutter" width="40"/><br>Flutter<br><br>
-        <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML<br><br>
-        <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS<br><br>
-        <img src="https://skillicons.dev/icons?i=django" width="40"/><br>Django<br><br>
-        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Flutter<br><br>
+        <img src="https://skillicons.dev/icons?i=html" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>HTML<br><br>
+        <img src="https://skillicons.dev/icons?i=css" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>CSS<br><br>
+        <img src="https://skillicons.dev/icons?i=django" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Django<br><br>
+        <img src="https://skillicons.dev/icons?i=flask" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Flask
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow<br><br>
-        <img src="https://raw.githubusercontent.com/keras-team/keras/master/keras.png" width="40"/><br>Keras<br><br>
-        <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch<br><br>
-        <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/><br>Scikit-learn
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>TensorFlow<br><br>
+        <img src="https://raw.githubusercontent.com/washik6049/washik6049.github.io/main/images/keras-logo.png" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Keras<br><br>
+        <img src="https://skillicons.dev/icons?i=pytorch" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>PyTorch<br><br>
+        <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Scikit-learn
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL<br><br>
-        <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git<br><br>
-        <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub<br><br>
-        <img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>MySQL<br><br>
+        <img src="https://skillicons.dev/icons?i=git" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Git<br><br>
+        <img src="https://skillicons.dev/icons?i=github" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>GitHub<br><br>
+        <img src="https://skillicons.dev/icons?i=bash" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;"/><br>Bash
       </td>
     </tr>
   </tbody>
