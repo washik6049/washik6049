@@ -48,7 +48,7 @@
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow<br><br>
-        <img src="https://www.tensorflow.org/images/keras-logo-small.png" width="40"/><br>Keras<br><br>
+        <img src="https://raw.githubusercontent.com/keras-team/keras/master/keras.png" width="40"/><br>Keras<br><br>
         <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch<br><br>
         <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/><br>Scikit-learn
       </td>
