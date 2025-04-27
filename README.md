@@ -48,6 +48,7 @@
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=tensorflow" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;" alt="TensorFlow"/><br>TensorFlow<br><br>
+        <!-- Replace the URL below with the correct URL after uploading to your repository or Imgur -->
         <img src="https://raw.githubusercontent.com/washik6049/washik6049.github.io/main/images/keras-logo.png" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;" alt="Keras Logo"/><br>Keras<br><br>
         <img src="https://skillicons.dev/icons?i=pytorch" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;" alt="PyTorch"/><br>PyTorch<br><br>
         <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" style="background-color: #ffffff; border-radius: 50%; padding: 4px;" alt="Scikit-learn"/><br>Scikit-learn
