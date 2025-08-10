@@ -64,7 +64,7 @@
 
 <h2>📚 Publications</h2>
 
-📄 Advancing Bangla NLP: Transformer-Based Question Generation (ECCE 2025, Accepted)
+📄 Advancing Bangla NLP: Transformer-Based Question Generation (ECCE 2025, Published)
 
 📄 Deep Learning for Pneumonia Detection in Chest X-rays (ICCCNT 2024, Published)
 
